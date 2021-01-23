@@ -8,7 +8,7 @@ int main(int argc, char const *argv[])
 {	
 	int taille_tab = 15;
 	int taille_mot;
-	printf("Bonjour, bienvenue dans le jeu de pendu\n");
+	printf("Bonjour, bienvenue dans le jeu du pendu\n");
 	char mot[taille_tab];	
 	taille_mot = lecture_fichier(mot);
 	int essai;
